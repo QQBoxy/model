@@ -28,4 +28,4 @@
 
 ![Ender 3 v2 cover](Ender_3_v2_cover.jpg)
 * Download: [Ender_3_v2_cover.stl](Ender_3_v2_cover.stl)
-* Explain: Replace the original cover plate with poor heat dissipation
+* Explain: Better heat dissipation cover

@@ -2,6 +2,15 @@
 
 > From new to old.
 
+## Chessboard Paradox
+
+![Chessboard_paradox_square](Chessboard_paradox_square.jpg)
+![Chessboard_paradox_rectangle](Chessboard_paradox_rectangle.jpg)
+* Download(Four-part assembly): [Chessboard_paradox.stl](Chessboard_paradox.stl)
+* Download: [Chessboard_paradox_trapezoid.stl](Chessboard_paradox_trapezoid.stl)
+* Download: [Chessboard_paradox_triangle.stl](Chessboard_paradox_triangle.stl)
+* Explain: Chessboard paradox is a falsidical paradox based on an optical illusion. (Wiki: [https://en.wikipedia.org/wiki/Chessboard_paradox](https://en.wikipedia.org/wiki/Chessboard_paradox))
+
 ## IKEA Sucker kit
 
 ### Prototype hook

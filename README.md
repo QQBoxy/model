@@ -2,6 +2,11 @@
 
 > From new to old.
 
+### Scrub Sponge Caddy for Kitchen Faucets
+![Scrub_sponge_caddy_for_kitchen_faucets](Scrub_sponge_caddy_for_kitchen_faucets.jpg)
+* Download: [Scrub_sponge_caddy_for_kitchen_faucets.stl](Scrub_sponge_caddy_for_kitchen_faucets.stl)
+* Explain: Scrub Sponge Caddy for Kitchen Faucets
+
 ## Chessboard Paradox
 
 ![Chessboard_paradox_square](Chessboard_paradox_square.jpg)

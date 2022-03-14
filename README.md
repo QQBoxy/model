@@ -2,9 +2,15 @@
 
 > From new to old.
 
+## Water Powered Boat
+![Water Powered Boat](Water_Powered_Boat.gif)
+* Download: [Water_Powered_Boat.stl](Water_Powered_Boat.stl)
+* Download: [Water_Powered_Boat_Unpowered.stl](Water_Powered_Boat.stl)
+* Explain: Toy boat using Water Powered
+
 ## Double-decker bus
-![Double-decker bus](Double-decker-bus.jpg)
-* Download: [Double-decker-bus.stl](Double-decker-bus.stl)
+![Double-decker bus](Double_decker_bus.jpg)
+* Download: [Double_decker_bus.stl](Double_decker_bus.stl)
 * Explain: Double-decker bus toy with movable wheels
 
 ## Scrub Sponge Caddy for Kitchen Faucets

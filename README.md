@@ -5,7 +5,7 @@
 ## Water Powered Boat
 ![Water Powered Boat](Water_Powered_Boat.gif)
 * Download: [Water_Powered_Boat.stl](Water_Powered_Boat.stl)
-* Download: [Water_Powered_Boat_Unpowered.stl](Water_Powered_Boat.stl)
+* Download: [Water_Powered_Boat_Unpowered.stl](Water_Powered_Boat_Unpowered.stl)
 * Explain: Toy boat using Water Powered
 
 ## Double-decker bus

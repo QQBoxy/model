@@ -2,6 +2,11 @@
 
 > From new to old.
 
+## Retro Telephone
+![Retro Telephone](Retro_Telephone.jpg)
+* Download: [Retro_Telephone.stl](Retro_Telephone.stl)
+* Explain: Retro Telephone for KidKraft Vintage Wooden Play Kitchen.
+
 ## Water Powered Boat
 ![Water Powered Boat](Water_Powered_Boat.gif)
 * Download: [Water_Powered_Boat.stl](Water_Powered_Boat.stl)

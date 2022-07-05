@@ -2,6 +2,13 @@
 
 > From new to old.
 
+## Drain Extension
+<img src="DrainExtension.jpg" alt="DrainExtension" style="height: 200px;"/><br />
+* Download: [drain_floor.stl](drain_floor.stl)
+* Download: [drain_pipe.stl](drain_pipe.stl)
+* Download: [drain_filter.stl](drain_filter.stl)
+* Explain: A stone pillar shaped for drain extension.
+
 ## Shovel
 <img src="Shovel.jpg" alt="Shovel" style="height: 200px;"/><br />
 * Download: [Shovel.stl](Shovel.stl)

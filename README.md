@@ -2,10 +2,15 @@
 
 > From new to old.
 
+### Water Tray for IKEA Chopping Board Holder
+<img src="Chopping_board_holder_water_tray.jpg" alt="Chopping Board Holder Water Tray" style="height: 200px;"/><br />
+* Download: [Chopping_board_holder_water_tray.stl](Chopping_board_holder_water_tray.stl)
+* Explain: Water Tray for IKEA Chopping Board Holder
+
 ### Bait Box
 <img src="BaitBox.jpg" alt="Bait Box" style="height: 200px;"/><br />
 * Download: [BaitBox.stl](BaitBox.stl)
-* Explain: Blattella germanica bait Box
+* Explain: Blattella Germanica Bait Box
 
 ## IKEA track
 <img src="IKEA_track.jpg" alt="IKEA track" style="height: 200px;"/><br />

@@ -2,6 +2,11 @@
 
 > From new to old.
 
+### Origami Pinwheel Connector
+<img src="origami_pinwheel.jpg" alt="Chopping Board Holder Water Tray" style="height: 200px;"/><br />
+* Download: [origami_pinwheel.stl](origami_pinwheel.stl)
+* Explain: Parts of origami pinwheel, which can connect chopsticks and fan blades
+
 ### Water Tray for IKEA Chopping Board Holder
 <img src="Chopping_board_holder_water_tray.jpg" alt="Chopping Board Holder Water Tray" style="height: 200px;"/><br />
 * Download: [Chopping_board_holder_water_tray.stl](Chopping_board_holder_water_tray.stl)
